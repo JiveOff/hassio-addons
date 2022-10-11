@@ -1,6 +1,6 @@
 
 {
-    "name": "mtthp's Home Assistant add-ons",
-    "url": "https://github.com/mtthp/hassio-addons",
-    "maintainer": "Matthieu Petit <p.matthieu@me.com>"
+    "name": "JiveOff's Home Assistant Forked addons repository (from mtthp/hassio-addons",
+    "url": "https://github.com/jiveoff/hassio-addons",
+    "maintainer": "JiveOff <antoine@jiveoff.fr>"
 }
