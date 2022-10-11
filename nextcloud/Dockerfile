@@ -29,17 +29,17 @@ ARG BUILD_VERSION
 # Labels
 LABEL \
     io.hass.name="Nextcloud" \
-    io.hass.description="Nextcloud add-on by Matthieu Petit" \
+    io.hass.description="Nextcloud add-on fork by JiveOff" \
     io.hass.arch="${BUILD_ARCH}" \
     io.hass.type="addon" \
     io.hass.version=${BUILD_VERSION} \
-    maintainer="Matthieu Petit <p.matthieu@me.com>" \
-    org.label-schema.description="Nextcloud add-on by Matthieu Petit" \
+    maintainer="JiveOff <antoine@jiveoff.fr>" \
+    org.label-schema.description="Nextcloud add-on fork by JiveOff" \
     org.label-schema.build-date=${BUILD_DATE} \
     org.label-schema.name="Nextcloud" \
     org.label-schema.schema-version="1.0.0" \
-    org.label-schema.url="https://github.com/mtthp/hassio-addons" \
-    org.label-schema.usage="https://github.com/mtthp/hassio-addons/tree/master/nextcloud/README.md" \
+    org.label-schema.url="https://github.com/JiveOff/hassio-addons" \
+    org.label-schema.usage="https://github.com/JiveOff/hassio-addons/tree/master/nextcloud/README.md" \
     org.label-schema.vcs-ref=${BUILD_REF} \
-    org.label-schema.vcs-url="https://github.com/mtthp/hassio-addons/" \
-    org.label-schema.vendor="mtthp Hass.io Add-ons"
+    org.label-schema.vcs-url="https://github.com/JiveOff/hassio-addons/" \
+    org.label-schema.vendor="JiveOff Hass.io Add-ons"
